@@ -10,14 +10,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 👋 Hey I'm Sanj!:
-🔭 I’m currently working on
+🔭 I’m currently working on:
+**Getting hired! 😎**
 
-🌱 I’m currently learning
+🌱 I’m currently learning:
+**React ⚛**
 
-💬 Ask me about
-
+💬 Ask me about:
+**The games I've made for game jams, or even what I'm currently playing. 🎮**
+<!-- 
 ⚡ Fun fact
 
+
+ -->
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heysanj)  -->
